@@ -1,7 +1,9 @@
 # Hi There! 🤙
 
-# I'm Dave 
-<img src = '' alt = 'Mirio Gif' align='right'/>
+# I'm Dave
+
+<img src = './img/Mirio.gif' alt = 'Mirio Gif' align='right'/>
+
 ## My learning route:
 - I'm currently learning Web Development. 🌐
 - I'm practicing self-taught with various programming lenguages and documentation.
