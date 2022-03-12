@@ -1,6 +1,6 @@
 # Hi There! 🤙
 
-# I'm Dave
+<img src = './img/Dave.gif' alt = 'Dave Intro' align='center'/>
 
 <img src = './img/Mirio.gif' alt = 'Mirio Gif' align='right'/>
 
