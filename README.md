@@ -6,16 +6,11 @@
 
 ## My learning route:
 - I'm currently learning Web Development. 🌐
-- I'm practicing self-taught with various programming lenguages and documentation.
-- Learning SQL. 🔑  
-- Python is my best programming lenguage for practicing. 🐍
-
+- I'm practicing self-taught with various programming lenguages and documentation.  
 
 ## Future projects:
 - I'd like to learn more about Data Science and IA. 🧠
-- Learning React.js. ⚛️
-- Working in a project to help others and improve my knowledge. 
-
+- To learn React.js.
 
 About Me:
 - I'm a technology enthusiast improving to be better every day. 👨‍💻 
