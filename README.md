@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Dave Hdz">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12155915080&count=count=1)
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12155915080&count=1)
   </a>
 </div>
 
