@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm currently working with:<br>- Web Development 🖥️<br>- 3D Web Development 🤖</p>
+<p align="left">I'm currently working with:<br>- Web Development 🖥️<br>- 3D Web Development 🤖<br>- VR Development 🤖</p>
 
 ###
 
